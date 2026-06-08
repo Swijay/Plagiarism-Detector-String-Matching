@@ -1,0 +1,7 @@
+Machine learning allows computers to learn from data without being explicitly programmed.
+
+Plagiarism detection is used in universities and colleges to find copied academic content.
+
+String matching algorithms such as KMP and Rabin-Karp help in finding patterns inside large text documents.
+
+Cloud computing provides scalable computing resources over the internet.

@@ -1,0 +1,9 @@
+Artificial Intelligence is a branch of computer science that focuses on building smart machines.
+
+Machine learning allows computers to learn from data without being explicitly programmed.
+
+Data structures and algorithms are important for solving computational problems efficiently.
+
+Plagiarism detection is used by colleges and universities to identify copied academic content.
+
+String matching algorithms such as KMP and Rabin-Karp help in finding patterns inside large text documents.

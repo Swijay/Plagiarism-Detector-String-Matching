@@ -1,0 +1,6 @@
+No external Python packages required.
+
+Required:
+- Modern Web Browser
+- VS Code
+- Live Server Extension Optional
